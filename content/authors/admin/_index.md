@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hisseini Ali Weddeye 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student of Rudn University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Rudn University 
+  url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Data analysis
+- probability and statistic
 - Computational Linguistics
-- Information Retrieval
+- Programmation in python
+- Football, actuality 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: baccalaureate of secondary education.
+    institution: high school Jacque Mudeina of Bongor
+    year: 2014
+  - course: certificate of Russian Language
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2016
+  - course: Bachelor in Mathematics and Computer Science 
+    institution: Bauman university
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +44,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
+  link: 'mailto:bollouyami@yandex.ru'
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.facebook.com/hissenali.weddei/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-- icon: linkedin
+- icon: vk
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://vk.com/id446548987
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
