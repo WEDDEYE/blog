@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/WEDDEYE/WEDDEYE.github.io.git
+	url = git@github.com:WEDDEYE/WEDDEYE.github.io.git
 	branch = main
